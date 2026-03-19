@@ -17,7 +17,7 @@ This repository features an advanced AI agent designed to streamline sales engin
 ```bash
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd your-repo-name
-
+```
 ### 🛠️ Install Dependencies
     Ensure you have Python 3.9+ installed, then run:
     pip install -r requirements.txt
@@ -26,11 +26,11 @@ cd your-repo-name
     Create a .env file in the root directory and add your Google API credentials:
     GOOGLE_API_KEY=your_gemini_api_key_here
 
-🚀 Execution
+### 🚀 Execution
     You can try the AI Sales & Compliance Intelligence Agent live here:
     👉 [Live Demo - Try the App here!]()
 
-📊 Project Architecture
+## 📊 Project Architecture
 
     main.py: The primary entry point. Manages the Streamlit state, UI components, and the orchestration of the RAG engine.
 
@@ -38,7 +38,7 @@ cd your-repo-name
 
     src/evaluator.py: Implementation of the RAGAS framework for automated response auditing and performance metrics.
 
-📁 Suggested Data Structure (Demo Mode):
+## 📁 Suggested Data Structure (Demo Mode):
 
 To test the system immediately, organize your local files as follows:
 
