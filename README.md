@@ -13,8 +13,8 @@ This repository features an advanced Multi-Engine AI Agent designed to bridge th
  * Legal & Compliance Engine: Processes complex TOS, Google Cloud contracts, and liability terms.
 
  * CRM/Email Engine: A specialized CSV retriever that tracks customer feedback and previous interactions.
-* **RAGAS Evaluation Framework:** Integrated quality assurance that measures **Faithfulness** (hallucination mitigation) and **Answer Relevancy** in real-time using NLP metrics.
-* **Streamlit UI:** A clean, production-ready interface for interactive querying, system status monitoring, and metric visualization.
+**RAGAS Evaluation Framework:** Integrated quality assurance that measures **Faithfulness** (hallucination mitigation) and **Answer Relevancy** in real-time using NLP metrics.
+**Streamlit UI:** A clean, production-ready interface for interactive querying, system status monitoring, and metric visualization.
 
 ---
 
